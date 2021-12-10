@@ -31,5 +31,5 @@
 
 
 [website]: https://www.sharded.cf
-[discord]: https://discord.gg/mxkbqEMDx5
+[discord]: https://discord.sharded.cf/
 [instagram]: https://instagram.com/renaaaaatul
