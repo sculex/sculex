@@ -5,7 +5,7 @@
 
 - 🔭 I just launched my first project: [Shard][website]!
 <br />
-- 🌱 It has a lot of commands separated by categories:
+<b>- 🌱 It has a lot of commands separated by categories:<b><b>
 <br />
 <br><b>- 👻 Fun <br>
 <br><b>- 🧰 Utility <b> <br />
