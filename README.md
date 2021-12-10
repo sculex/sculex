@@ -7,14 +7,14 @@
 <br />
 - 🌱 It has a lot of commands separated by categories:
 <br />
-- 👻 Fun \n
-- 🧰 Utility \n
-- 🏖 Images \n
-- 📶 Leveling \n
-- 💸 Economy \n
-- 🔨 Moderation \n
-- ⚙️ Configuration \n
-- And more stuff! \n
+<b>- 👻 Fun 
+<b>- 🧰 Utility <b>
+<b>- 🏖 Images <b>
+<b>- 📶 Leveling <b>
+<b>- 💸 Economy <b>
+<b>- 🔨 Moderation <b>
+<b>- ⚙️ Configuration <b>
+<b>- And more stuff! <b>
 
 [<img align="centre" alt="Shard Bot Preview" width="300px" src="https://media.discordapp.net/attachments/902194524430938118/911956103678529596/unknown.png?width=369&height=315" />][website]
 [<img align="centre" alt="Shard Bot Preview" width="250px" src="https://media.discordapp.net/attachments/902194524430938118/911956253260005396/unknown.png" />][website]
