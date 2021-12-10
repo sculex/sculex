@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @sculex
-- 👀 I’m interested in js/py/lua/rust/html/css/c#
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me https://instagram.com/nusuntrenatpa / / discord: 𝚂𝚌𝚞𝚕𝚎𝚇#9999
+### Hi there, I'm presenting you [Shard][website] 👋 
+[<img align="centre" alt="Shard Bot Preview" width="250px" src="https://media.discordapp.net/attachments/902194523608846365/911955319293353984/unknown.png?width=293&height=424" />][website]
 
-<!---
-sculex/sculex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I'm Renat aka SculeX, I'm 19 yrs, and I'm a discord.js developer 
+
+- 🔭 I just launched my first project: [Shard][website]!
+<br />
+- 🌱 It has a lot of commands separated by categories:
+<br />
+- 👻 Fun
+- 🧰 Utility
+- 🏖 Images
+- 📶 Leveling
+- 💸 Economy
+- 🔨 Moderation
+- ⚙️ Configuration
+- And more stuff!
+
+[<img align="centre" alt="Shard Bot Preview" width="300px" src="https://media.discordapp.net/attachments/902194524430938118/911956103678529596/unknown.png?width=369&height=315" />][website]
+[<img align="centre" alt="Shard Bot Preview" width="250px" src="https://media.discordapp.net/attachments/902194524430938118/911956253260005396/unknown.png" />][website]
+<br />
+
+### Contact Us:
+
+[<img align="left" alt="sharded.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="renaaaaatul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SculeX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+
+
+
+[website]: https://www.sharded.cf
+[discord]: https://discord.gg/mxkbqEMDx5
+[instagram]: https://instagram.com/renaaaaatul
