@@ -1,7 +1,6 @@
 ### Hi there, I'm presenting you [Shard][website] 👋 
 [<img align="centre" alt="Shard Bot Preview" width="250px" src="https://media.discordapp.net/attachments/902194524430938118/935515952710299648/unknown.png?width=231&height=467" />][website]
 
-### I'm Renat aka SculeX, I'm 19 yrs, and I'm a discord.js developer 
 
 - 🔭 I just launched my first project: [Shard][website]!
 
