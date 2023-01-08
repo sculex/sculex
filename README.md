@@ -1,37 +1,16 @@
-### Hi there, I'm presenting you [shard][website] 👋 
-[<img align="centre" alt="shard Preview" width="250px" src="https://cdn.discordapp.com/attachments/990602976274055181/993517652897177661/unknown.png?width=231&height=467" />][website]
+<h3 align="center">Hi there! 👋</h3>  
 
+<p align="center">I am Renat and I live in Moldova.</p>   
+<p align="center">I like to code, play videogames and listen to <a href="https://open.spotify.com/playlist/4Et1j6y5Tx8AvkcLEku2Yl?si=Yfgdz1TgTPGAYF_yS3tPpg">Hardstyle</a> in my free time!</p>   
 
-- 🔭 The newest version of shard got relased!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Steam](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/terroristu) °
+![Discord](https://img.shields.io/badge/-sculex%235890-blueviolet) °
+[![My Projects](https://img.shields.io/badge/%20My%20Projects%20-blueviolet)](https://github.com/users/sculex/projects/4) °
+[![Donate](https://img.shields.io/badge/PayPal-blue)](https://paypal.me/sclxu)
 
-
-- 🌱 It has a lot of music commands.
-
-- 👻 /play
-- 🧰 /stop
-- 🏖 /skip
-- 📶 /loop
-- 💸 /filter
-- 🔨 /nowplaying
-- ⚙️ /volume
-- And more!
-
-[<img align="centre" alt="shard Preview" width="300px" src="https://cdn.discordapp.com/attachments/990602976274055181/993518080368062474/unknown.png" />][website]
-[<img align="centre" alt="shard Preview" width="300px" src="https://cdn.discordapp.com/attachments/990602976274055181/993518271590567997/unknown.png" />][website]
-
-
-
-### Contact Us:
-
-[<img align="centre" alt="sharder.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="centre" alt="ur0wner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="centre" alt="discord | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-
-
-
-
-
-[website]: https://www.sharder.cf
-[discord]: https://discord.sharded.cf
-[instagram]: https://instagram.com/ur0wner
+<p align="center">
+  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=herreurobeat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+</p>
+  
+---
