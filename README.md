@@ -1,6 +1,6 @@
 <h3 align="center">Hi there! 👋</h3>  
 
-<p align="center">I am Renat and I live in Moldova.</p>   
+<p align="center">I am Renat.</p>   
 <p align="center">I like to code, play videogames and listen to <a href="https://open.spotify.com/playlist/4F2uq54Th5f2IMALjGGGJH?si=a288308f89ac43a6">Hardstyle</a> in my free time!</p>   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
