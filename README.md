@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Steam](https://img.shields.io/badge/Steam-green)](https://steamcommunity.com/id/terroristu) °
-![Discord](https://img.shields.io/badge/-sculex%235890-blueviolet) °
+![Discord](https://img.shields.io/badge/-sculex%239159-blueviolet) °
 [![My Projects](https://img.shields.io/badge/%20My%20Projects%20-purple)](https://github.com/users/sculex/projects/4) °
 [![Donate](https://img.shields.io/badge/PayPal-blue)](https://paypal.me/sclxu) °
 [![My Website](https://img.shields.io/badge/Website-red)](https://sharder.cf/sculex)
